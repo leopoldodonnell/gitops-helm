@@ -11,5 +11,5 @@ spec:
   chartGitPath: podinfo
   releaseName: podinfo-prod
   values:
-    image: leopoldodonnell/podinfo:0.4.11
+    image: leopoldodonnell/podinfo:0.4.12
     replicaCount: 3
