@@ -11,7 +11,7 @@ spec:
   chartGitPath: podinfo
   releaseName: podinfo-dev
   values:
-    image: leopoldodonnell/podinfo:dev-6i2va2pu
+    image: leopoldodonnell/podinfo:dev-ty2dfmrf
     replicaCount: 1
     hpa:
       enabled: false
