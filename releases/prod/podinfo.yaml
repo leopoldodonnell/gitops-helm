@@ -9,7 +9,7 @@ metadata:
     flux.weave.works/tag.chart-image: semver:~0.4
 spec:
   chartGitPath: podinfo
-  releaseName: podinfo-prod
+  releaseName: gitops-helm/podinfo-prod
   values:
     image: leopoldodonnell/podinfo:0.4.12
     replicaCount: 3
