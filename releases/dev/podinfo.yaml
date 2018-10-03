@@ -12,6 +12,6 @@ spec:
   releaseName: podinfo-dev
   values:
     image: leopoldodonnell/podinfo:dev-ty2dfmrf
-    replicaCount: 2
+    replicaCount: 1
     hpa:
       enabled: false
